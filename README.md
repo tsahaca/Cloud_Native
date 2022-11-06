@@ -21,11 +21,7 @@ innovations accessible for every
 ## Thomas Vitale
  
 ### Why Cloud Native?
-- Speed
-  Faster and flexible delivery
-- Resilience
-  Availability and stability
-- Scale
-Elasticity and dynamic scaling
-- Cost
-Efficiency and cost optimisation
+- Speed - Faster and flexible delivery
+- Resilience - Availability and stability
+- Scale - Elasticity and dynamic scaling
+- Cost - Efficiency and cost optimisation
