@@ -18,4 +18,14 @@ innovations accessible for every
 
 - https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it
 
-
+## Thomas Vitale
+ 
+### Why Cloud Native?
+- Speed
+  Faster and flexible delivery
+- Resilience
+  Availability and stability
+- Scale
+Elasticity and dynamic scaling
+- Cost
+Efficiency and cost optimisation
