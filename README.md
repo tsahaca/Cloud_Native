@@ -2,7 +2,6 @@
 
 ## CNCF Definition:
 
-```
 Cloud native technologies empower organizations to build and run scalable applications in modern, 
 dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, 
 immutable infrastructure, and declarative APIs exemplify this approach.
@@ -14,4 +13,4 @@ predictably with minimal toil.
 The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining 
 an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these 
 innovations accessible for every
-```
+
