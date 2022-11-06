@@ -1,4 +1,4 @@
-# Cloud_Native
+# Cloud Native
 
 ## CNCF Definition:
 
