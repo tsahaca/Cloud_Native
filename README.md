@@ -14,3 +14,8 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these 
 innovations accessible for every
 
+## GCP Definition:
+
+- https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it
+
+
